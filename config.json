@@ -1,0 +1,12 @@
+{
+    "test": {
+      "0": {
+        "proj": "hobodyer",
+        "lon0": 46,
+        "lat0": 35
+      }
+    }
+  },
+  "closed": false,
+  "folders": {}
+}
